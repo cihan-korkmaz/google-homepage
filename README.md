@@ -1,0 +1,1 @@
+the goal of this project is to practice building a web page. I want to learn using html and css and developers tools.
